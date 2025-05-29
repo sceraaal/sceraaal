@@ -1,16 +1,19 @@
-## Hi there 👋
+### 👋 Ciao! Benvenuto sul mio profilo GitHub
 
-<!--
-**sceraaal/sceraaal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mi chiamo **sceraaal** e sono uno sviluppatore C appassionato di progettazione software, algoritmi e sistemi a basso livello. Amo creare soluzioni funzionali e ben documentate per progetti pratici.
 
-Here are some ideas to get you started:
+---
+### 🧠 Cosa so fare
+- 🛠️ Linguaggi: `C`, `Makefile`, `Bash`
+- 📦 Strumenti: `GCC`, `GDB`, `Git`
+- ⚙️ Specialità: gestione file, strutture dati dinamiche, automazione da terminale
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Obiettivo
+Sto costruendo un portfolio solido per lavorare come **freelancer**, creare **tool vendibili**, e contribuire a progetti open-source. Se hai bisogno di un progetto in C ottimizzato, **contattami**!
+
+📫 Telegram: `@sceraaal`  
+📬 Email: `sceralsimona@email.com` 
+
+---
+> "Il miglior codice è quello che parla da solo." – S.
