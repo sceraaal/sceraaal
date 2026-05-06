@@ -1,12 +1,11 @@
 ### 👋 Ciao! Benvenuto sul mio profilo GitHub
 
-Mi chiamo **sceraaal** e sono uno sviluppatore C appassionato di progettazione software, algoritmi e sistemi a basso livello. Amo creare soluzioni funzionali e ben documentate per progetti pratici.
+Mi chiamo **sceraaal** e sono uno sviluppatore appassionato di progettazione software. Amo creare soluzioni funzionali e ben documentate per progetti pratici.
 
 ---
 ### 🧠 Cosa so fare
 - 🛠️ Linguaggi: `C`, `Makefile`, `Bash`,`HTML`,`CSS`
 - 📦 Strumenti: `GCC`, `GDB`, `Git`
-- ⚙️ Specialità: gestione file, strutture dati dinamiche, automazione da terminale
 ---
 
 ### 🎯 Obiettivo
