@@ -4,7 +4,7 @@ Mi chiamo **sceraaal** e sono uno sviluppatore C appassionato di progettazione s
 
 ---
 ### 🧠 Cosa so fare
-- 🛠️ Linguaggi: `C`, `Makefile`, `Bash`
+- 🛠️ Linguaggi: `C`, `Makefile`, `Bash`,`HTML`,`CSS`
 - 📦 Strumenti: `GCC`, `GDB`, `Git`
 - ⚙️ Specialità: gestione file, strutture dati dinamiche, automazione da terminale
 ---
